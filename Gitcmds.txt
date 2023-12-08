@@ -1,0 +1,8 @@
+Git push :---->>
+
+git init 
+git add .
+git commit -m 'Firstcommit'
+git remote add origin <branchname>
+git branch 
+git push origin branch
